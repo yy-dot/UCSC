@@ -1,0 +1,4 @@
+genome mm10
+trackDb track/track.txt
+#groups track/group.txt
+defaultPos chr1
