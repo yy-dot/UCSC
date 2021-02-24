@@ -1,0 +1,142 @@
+track K9ac-4C
+bigDataUrl K9-4cell.bw
+shortLabel K9ac-4C
+longLabel K9ac Signal of 4C embryo
+type bigWig
+windowingFunction mean+whiskers
+color 0,0,205
+maxHeightPixels 90:90:8
+viewLimits 0:90
+viewLimitsMax 0:128
+
+track K9ac-8C
+bigDataUrl K9-8cell.bw
+shortLabel K9ac-8C
+longLabel K9ac Signal of 8C embryo
+type bigWig
+windowingFunction mean+whiskers
+color 0,0,205
+maxHeightPixels 90:90:8
+viewLimits 0:90
+viewLimitsMax 0:128
+
+track K9ac-TSC
+bigDataUrl K9-TSC.bw
+shortLabel K9ac-TSC
+longLabel K9ac Signal of TSC
+type bigWig
+windowingFunction mean+whiskers
+color 0,0,205
+maxHeightPixels 90:90:8
+viewLimits 0:90
+viewLimitsMax 0:128
+
+track K9ac-e2C
+bigDataUrl K9-2cell-early.bw
+shortLabel K9ac-e2C
+longLabel K9ac Signal of e2C
+type bigWig
+windowingFunction mean+whiskers
+color 0,0,205
+maxHeightPixels 90:90:8
+viewLimits 0:90
+viewLimitsMax 0:128
+
+track K9ac-l2C
+bigDataUrl K9-2cell-late.bw
+shortLabel K9ac-l2C
+longLabel K9ac Signal of l2C
+type bigWig
+windowingFunction mean+whiskers
+color 0,0,205
+maxHeightPixels 90:90:8
+viewLimits 0:90
+viewLimitsMax 0:128
+
+track K9ac-ICM
+bigDataUrl K9-ICM.bw
+shortLabel K9ac-ICM
+longLabel K9ac Signal of ICM
+type bigWig
+windowingFunction mean+whiskers
+color 0,0,205
+maxHeightPixels 90:90:8
+viewLimits 0:90
+viewLimitsMax 0:128
+
+track K9ac-MII
+bigDataUrl K9-M2.bw
+shortLabel K9ac-MII
+longLabel K9ac Signal of MII
+type bigWig
+windowingFunction mean+whiskers
+color 0,0,205
+maxHeightPixels 90:90:8
+viewLimits 0:90
+viewLimitsMax 0:128
+
+track K9ac-TE
+bigDataUrl K9-TE.bw
+shortLabel K9ac-TE
+longLabel K9ac Signal of TE
+type bigWig
+windowingFunction mean+whiskers
+color 0,0,205
+maxHeightPixels 90:90:8
+viewLimits 0:90
+viewLimitsMax 0:128
+
+track K9ac-GV
+bigDataUrl K9-GV.bw
+shortLabel GV-K9ac
+longLabel K9ac Signal of GV
+type bigWig
+windowingFunction mean+whiskers
+color 0,0,205
+maxHeightPixels 90:90:8
+viewLimits 0:90
+viewLimitsMax 0:128
+
+track K9ac-PN5
+bigDataUrl K9-PN5.bw
+shortLabel PN5-K9ac
+longLabel K9ac Signal of PN5
+type bigWig
+windowingFunction mean+whiskers
+color 0,0,205
+maxHeightPixels 90:90:8
+viewLimits 0:90
+viewLimitsMax 0:128
+
+track K9ac-morula
+bigDataUrl K9-morula.bw
+shortLabel morula-K9ac
+longLabel K9ac Signal of morula
+type bigWig
+windowingFunction mean+whiskers
+color 0,0,205
+maxHeightPixels 90:90:8
+viewLimits 0:90
+viewLimitsMax 0:128
+
+track K9ac-sperm
+bigDataUrl K9-sperm.bw
+shortLabel sperm-K9ac
+longLabel K9ac Signal of sperm
+type bigWig
+windowingFunction mean+whiskers
+color 0,0,205
+maxHeightPixels 90:90:8
+viewLimits 0:90
+viewLimitsMax 0:128
+
+track K9ac-zygote
+bigDataUrl K9-zygote.bw
+shortLabel zygote-K9ac
+longLabel K9ac Signal of zygote
+type bigWig
+windowingFunction mean+whiskers
+color 0,0,205
+maxHeightPixels 90:90:8
+viewLimits 0:90
+viewLimitsMax 0:128
