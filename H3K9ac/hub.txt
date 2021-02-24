@@ -1,0 +1,5 @@
+hub mm10_k9ac
+shortLabel mouse embryo k9ac
+longLabel mouse embryo k9ac
+genomesFile genome.txt
+email 18368824812@163.com
